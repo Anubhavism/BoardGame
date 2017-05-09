@@ -1,0 +1,16 @@
+.blocks{
+	border: 1px solid black;
+	float: left;
+	padding: 50px;
+}
+.blocks:hover{
+	background-color: lightblue;
+}
+#container{
+	border: none;
+	background-color: white;
+	float: left;
+}
+#scoreDiv{
+	float: right;
+}
